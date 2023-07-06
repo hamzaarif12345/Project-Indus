@@ -1,0 +1,320 @@
+.contact1,
+.home {
+  position: relative;
+}
+.contact1 {
+  text-decoration: underline;
+}
+.contact-page-top-nav {
+  position: absolute;
+  top: calc(50% - 500.5px);
+  left: calc(50% + 311px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+  color: black;
+}
+.contact,
+.contact-page-top-nav a {
+  color: black;  !important;
+  font-style: normal;
+}
+.navbar{
+  position: absolute;
+  top: calc(50% - 500.5px);
+  left: calc(50% + 311px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+
+}
+.group-child,
+.tech-m-logo {
+  position: absolute;
+  top: 25;
+  left: 165px;
+  width: 177px;
+  height: 49.12px;
+}
+.group-child {
+  top: 0;
+  left: 7px;
+  width: 187.37px;
+  height: 52px;
+}
+.copyright {
+  position: absolute;
+  top: 0;
+  left: 5px;
+}
+.copyright-wrapper,
+.group-item {
+  position: absolute;
+  top: 3px;
+  right: 463px;
+  width: 107px;
+  height: 28px;
+}
+.group-item {
+  right: 315px;
+}
+.c,
+.tech-mahindra-limited {
+  position: absolute;
+  top: 3px;
+  left: 146px;
+}
+.c {
+  top: 0;
+  left: 7.25px;
+  display: inline-block;
+  width: 10.71px;
+  height: 24.14px;
+}
+.c-parent,
+.group-inner {
+  position: absolute;
+  width: 25px;
+}
+.group-inner {
+  top: 3.86px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  height: 24.14px;
+}
+.c-parent {
+  top: 0;
+  left: 113px;
+  height: 28px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-dimgray);
+}
+.frame-parent,
+.group-parent {
+  position: absolute;
+  width: 570px;
+}
+.frame-parent {
+  top: 67px;
+  right: 0;
+  height: 31px;
+}
+.group-parent {
+  top: 94px;
+  left: 0;
+  height: 98px;
+}
+.innovation-makers-lab {
+  text-decoration: underline;
+}
+.more-about-innovation-makers-l-wrapper {
+  position: absolute;
+  top: calc(50% - 96px);
+  left: calc(50% - 285px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: var(--font-size-3xl);
+}
+.contact-page-text {
+  position: absolute;
+  top: 620px;
+  left: 220px;
+  width: 570px;
+  height: 192px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+}
+.contact-child {
+  position: absolute;
+  top: 100px;
+  left: calc(50% - 400);
+  right:20px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-top: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 1250px;
+  height: 1px;
+}
+.shape-2-icon {
+  position: absolute;
+  height: 64.8%;
+  width: 20.1%;
+  top: 0;
+  right: 79.35%;
+  bottom: 35.2%;
+  left: -20;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.lets-c-nnect {
+  position: absolute;
+  top: 148px;
+  left: -20;
+  line-height: 80px;
+}
+.shape-74-icon {
+  position: absolute;
+  height: 13%;
+  width: 4.2%;
+  top: 75.58%;
+  right: 72.96%;
+  bottom: 10.1%;
+  left: 24.45%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.got-a-question {
+  margin: 0;
+}
+.got-a-question-container {
+  position: absolute;
+  top: 14px;
+  left: 120px;
+  font-size: 32px;
+  font-family: var(--font-lexend-deca);
+  text-align: left;
+  display: inline-block;
+  width: 565px;
+}
+.lets-connect {
+  position: absolute;
+  height: 21.11%;
+  width: 38.28%;
+  top: 31.94%;
+  right: 46.15%;
+  bottom: 46.94%;
+  left: 15.57%;
+  text-align: center;
+  font-size: 48px;
+  font-family: var(--font-metamorphous);
+}
+.contact-dialogue-child,
+.contact-dialogue-inner,
+.contact-dialogue-item {
+  position: absolute;
+  top: 226px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  border: 1px solid var(--color-gray);
+  box-sizing: border-box;
+  width: 645px;
+  height: 60px;
+}
+.contact-dialogue-inner,
+.contact-dialogue-item {
+  top: 320px;
+}
+.contact-dialogue-inner {
+  top: 414px;
+  height: 145px;
+}
+.phone-number {
+  position: absolute;
+  top: 242px;
+  left: 9px;
+}
+.message-subject,
+.type-your-message {
+  position: absolute;
+  top: 336px;
+  left: 9px;
+}
+.type-your-message {
+  top: 430px;
+}
+.label-text {
+  position: relative;
+  letter-spacing: 4px;
+  line-height: 20px;
+  font-weight: 500;
+}
+.state-layer {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  padding: 10px 24px;
+  align-items: center;
+  justify-content: center;
+}
+.button,
+.reach-out-to,
+.we-would-be {
+  position: absolute;
+  color: var(--color-gray);
+}
+.button {
+  top: 609px;
+  left: 146px;
+  border: 3px solid var(--color-gray);
+  box-sizing: border-box;
+  width: 300px;
+  height: 60px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-roboto);
+}
+.reach-out-to,
+.we-would-be {
+  left: 0;
+  display: inline-block;
+}
+.we-would-be {
+  top: 34px;
+  font-size: 36px;
+  width: 600px;
+}
+.reach-out-to {
+  top: 148px;
+  width: 565px;
+}
+.arrow-08-icon {
+  position: absolute;
+  top: 538px;
+  left: 375px;
+  width: 202.01px;
+  height: 197.29px;
+  overflow: hidden;
+}
+.highlight-03-icon {
+  position: absolute;
+  top: 0;
+  left: 525px;
+  width: 77.9px;
+  height: 76.97px;
+}
+.contact-dialogue {
+  position: absolute;
+  top: 282px;
+  left: 925px;
+  width: 550px;
+  height: 700.29px;
+  color: var(--color-darkgray);
+}
+.contact {
+  position: relative;
+  background-color: #fafaff;
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-gray);
+  font-family: var(--font-lexend-deca);
+}

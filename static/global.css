@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-lexend-deca: "Lexend Deca";
+  --font-metamorphous: Metamorphous;
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-13xl: 32px;
+  --font-size-xl: 20px;
+  --font-size-3xl: 22px;
+
+  /* Colors */
+  --color-gray: #29272f;
+  --color-dimgray: #545156;
+  --color-darkgray: #9e9999;
+  --color-gainsboro: rgba(217, 217, 217, 0);
+}

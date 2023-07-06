@@ -1,0 +1,278 @@
+.contact1,
+.home {
+  position: relative;
+}
+.contact1 {
+  text-decoration: underline;
+}
+.home-parent {
+  position: absolute;
+  top: calc(50% - 299px);
+  left: calc(50% + 45px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 75px;
+}
+.contact-child,
+.group-child {
+  position: absolute;
+  top: 67px;
+  left: 84px;
+  width: 177px;
+  height: 49.12px;
+}
+.group-child {
+  top: 0;
+  left: 202.25px;
+  width: 165.75px;
+  height: 46px;
+}
+.copyright {
+  position: absolute;
+  top: 0;
+  left: 5px;
+}
+.copyright-wrapper,
+.group-item {
+  position: absolute;
+  top: 3px;
+  right: 467px;
+  width: 107px;
+  height: 28px;
+}
+.group-item {
+  right: 319px;
+}
+.c,
+.tech-mahindra-limited {
+  position: absolute;
+  top: 3px;
+  left: 150px;
+}
+.c {
+  top: 0;
+  left: 7.25px;
+  display: inline-block;
+  width: 10.71px;
+  height: 24.14px;
+}
+.c-parent,
+.group-inner {
+  position: absolute;
+  width: 25px;
+}
+.group-inner {
+  top: 3.86px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  height: 24.14px;
+}
+.c-parent {
+  top: 0;
+  left: 115px;
+  height: 28px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-dimgray);
+}
+.frame-parent,
+.group-parent {
+  position: absolute;
+  width: 574px;
+}
+.frame-parent {
+  top: 52px;
+  right: 0;
+  height: 31px;
+}
+.group-parent {
+  top: 0;
+  left: 23px;
+  height: 83px;
+}
+.group-wrapper {
+  position: relative;
+  width: 619px;
+  height: 92px;
+}
+.contact-inner {
+  position: absolute;
+  bottom: 36px;
+  left: calc(50% - 286px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: var(--font-size-xl);
+}
+.innovation-makers-lab {
+  text-decoration: underline;
+}
+.about-innovation-makers-lab-wrapper {
+  position: absolute;
+  top: calc(50% + 356px);
+  left: calc(50% - 133px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: center;
+  color: var(--color-dimgray);
+}
+.contact-item {
+  position: absolute;
+  top: 131px;
+  left: calc(50% - 601px);
+  width: 1121px;
+  height: 13px;
+}
+.frame-child,
+.frame-inner,
+.frame-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 645px;
+  height: 60px;
+}
+.frame-inner,
+.frame-item {
+  top: 94px;
+}
+.frame-inner {
+  top: 188px;
+  height: 145px;
+}
+.phone-number {
+  position: absolute;
+  top: 16px;
+  left: 9px;
+}
+.message-subject,
+.type-your-message {
+  position: absolute;
+  top: 110px;
+  left: 9px;
+}
+.type-your-message {
+  top: 204px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 280px;
+  left: 86px;
+  width: 642px;
+  height: 333px;
+  color: var(--color-darkgray);
+}
+.shape-2-icon {
+  position: absolute;
+  height: 13.68%;
+  width: 7.7%;
+  top: 38%;
+  right: 32.06%;
+  bottom: 47.42%;
+  left: 54.25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.label-text {
+  position: relative;
+  letter-spacing: 4px;
+  line-height: 20px;
+  font-weight: 500;
+}
+.state-layer {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  padding: 10px 24px;
+  align-items: center;
+  justify-content: center;
+}
+.button {
+  position: absolute;
+  top: 656px;
+  left: 91px;
+  border: 3px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 227px;
+  height: 32px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray);
+  font-family: var(--font-roboto);
+}
+.lets-c-nnect,
+.wed-be-delighted {
+  position: absolute;
+  font-family: var(--font-metamorphous);
+  display: inline-block;
+}
+.wed-be-delighted {
+  top: 196px;
+  left: 69px;
+  font-size: 24px;
+  color: var(--color-dimgray);
+  width: 712px;
+  height: 103px;
+}
+.lets-c-nnect {
+  top: 538px;
+  left: 869px;
+  font-size: var(--font-size-13xl);
+  line-height: 80px;
+  text-align: center;
+  width: 383px;
+  height: 82px;
+}
+.shape-74-icon {
+  position: absolute;
+  height: 3%;
+  width: 1.25%;
+  top: 71.5%;
+  right: 18.45%;
+  bottom: 24.3%;
+  left: 68.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.got-a-question {
+  margin: 0;
+}
+.got-a-question-container {
+  position: absolute;
+  top: 288px;
+  left: 953px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 343px;
+  height: 120px;
+}
+.contact {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 784px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-gray);
+  font-family: var(--font-lexend-deca);
+}
